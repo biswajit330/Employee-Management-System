@@ -1,0 +1,5 @@
+{
+  "name": "Employee Management System",
+  "description": "Employee Management System for managing employee tasks, tracking task status, and monitoring workflows.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
